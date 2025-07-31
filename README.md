@@ -1,5 +1,3 @@
-# ir-drop-model-dashboard
-
 # IR Drop Model Performance Dashboard
 
 I generated a synthetic dataset that simulates IR drop in a VLSI chip using engineering-inspired features like:
