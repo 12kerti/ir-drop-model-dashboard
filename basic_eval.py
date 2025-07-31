@@ -1,4 +1,3 @@
-import pandas as pd
 
 df = pd.read_csv('synthetic_ir_drop_dataset.csv')
 
